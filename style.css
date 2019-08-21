@@ -55,4 +55,25 @@ footer {
 
 .navbar-light .navbar-brand {
     color: #4aaaa5;
-    font-size: 30px;
+    font-size: 30px; 
+}
+
+img{
+    float: left;
+}
+
+.btn{
+    background-color: #4aaaa5;
+}
+
+.card-body{
+    background-color: #4aaaa5;
+    text-align: center;
+    margin-top: -75px;
+    color: white;
+
+}
+
+.card{
+    padding:20px;
+}
