@@ -1,4 +1,14 @@
 
+header {
+    background-color: #ffffff;
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+
+}
+
+
+
 
 .container{
     padding: 40px;
@@ -17,16 +27,13 @@ h1 {
 }
 
 body{
+    
     background-color: #dddddd;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-img{
-    float: left;
-    padding-right: 10px;
-    padding-bottom: 10px;
 
-}
+
 
 footer {
      background-color: #666666; 
@@ -37,3 +44,15 @@ footer {
      color:white; 
      font-size: 10px; 
 }
+
+.navbar-brand{
+    
+    padding: 5px;
+    color: white;
+    
+    
+}
+
+.navbar-light .navbar-brand {
+    color: #4aaaa5;
+    font-size: 30px;
